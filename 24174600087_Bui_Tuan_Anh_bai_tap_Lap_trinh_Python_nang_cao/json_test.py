@@ -67,19 +67,19 @@
 
 # if __name__ == "__main__":
 #     main()
-import json
-# Import lớp JSONDecoder từ module json.decoder
-from json.decoder import JSONDecoder
+# import json
+# # Import lớp JSONDecoder từ module json.decoder
+# from json.decoder import JSONDecoder
 
-# Chuỗi JSON chứa dữ liệu màu sắc
-colour_string = '{"colour": ["red", "yellow"]}'
+# # Chuỗi JSON chứa dữ liệu màu sắc
+# colour_string = '{"colour": ["red", "yellow"]}'
 
-# 🟢 Sử dụng JSONDecoder để giải mã chuỗi JSON thành đối tượng Python.
-# JSONDecoder là lớp con của json.JSONDecoder, cho phép tùy chỉnh quá trình giải mã.
-# Phương thức decode() sẽ giải mã chuỗi JSON và trả về đối tượng Python tương ứng.
-decoded_object = JSONDecoder().decode(colour_string)
+# #  Sử dụng JSONDecoder để giải mã chuỗi JSON thành đối tượng Python.
+# # JSONDecoder là lớp con của json.JSONDecoder, cho phép tùy chỉnh quá trình giải mã.
+# # Phương thức decode() sẽ giải mã chuỗi JSON và trả về đối tượng Python tương ứng.
+# decoded_object = JSONDecoder().decode(colour_string)
 
-# In đối tượng Python đã giải mã và kiểu dữ liệu của đối tượng đó
-print(decoded_object)
-print(type(decoded_object))
+# # In đối tượng Python đã giải mã và kiểu dữ liệu của đối tượng đó
+# print(decoded_object)
+# print(type(decoded_object))
 
