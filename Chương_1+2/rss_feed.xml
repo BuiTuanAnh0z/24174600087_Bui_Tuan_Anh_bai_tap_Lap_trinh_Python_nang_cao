@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hindustan Times - Top News</title>
+    <link>http://www.hindustantimes.com/rss/topnews/rssfeed.xml</link>
+    <description>Latest top news headlines</description>
+    <item>
+      <title>India celebrates Independence Day</title>
+      <link>http://www.hindustantimes.com/india-news/independence-day.html</link>
+      <pubDate>Sat, 15 Aug 2025 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Education Policy announced</title>
+      <link>http://www.hindustantimes.com/education/new-policy.html</link>
+      <pubDate>Mon, 10 Aug 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Technology Summit held in Delhi</title>
+      <link>http://www.hindustantimes.com/tech/summit.html</link>
+      <pubDate>Wed, 05 Aug 2025 15:45:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
